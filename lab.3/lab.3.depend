@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514404908 source:/home/dasha/src/lab.3/main.cpp
+	<iostream>
+	<stdlib.h>
+
